@@ -1,0 +1,1 @@
+select tokens.workID, tokens.SentenceID, tokens.Index, works.workID, works.BYlink, works.author, works.work_name, works.year_written, sentences.sentence from tokens, works, sentences where tokens.word = "שלום" AND works.workID = tokens.WorkID and sentences.sentenceID = tokens.SentenceID limit 50

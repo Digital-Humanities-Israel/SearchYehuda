@@ -1,0 +1,8 @@
+
+<div class="alert alert-warning">דוגמא למשפט שחזר משאילתא <b>מחבר:</b>  מישהו <b>שנה:</b> 1923 <a href="#">מקור</a></div>
+<div class="alert alert-warning">דוגמא למשפט אחר שחזר משאילתא <b>מחבר:</b> מישהו אחר <b>שנה:</b>1892 <a href="#">מקור</a></div>
+
+<div align="center">
+<a href="#"><span class="glyphicon glyphicon-backward"></span></a>
+<a href="#"><span class="glyphicon glyphicon-forward"></span></a>
+</div>
